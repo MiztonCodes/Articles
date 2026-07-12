@@ -1,4 +1,4 @@
-## Preface
+# How to optimize IO in C++
 
 [Link to the repository containing all examples](https://github.com/MiztonCodes/OptimizeIO)
 
